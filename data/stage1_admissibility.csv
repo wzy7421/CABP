@@ -1,0 +1,6 @@
+alternative,concept,G1_fabric,G1_status,G2_reversibility,G2_status,G3_legibility,G3_status,G4_safety,G4_status,G5_enabling_cost_mCNY,G5_status,gate
+P0,Rejected high-impact concept,58,F,52,F,61,F,0,F,12,F,Fail
+P1,Minimal interpretive intervention,92,P,90,P,88,P,1,P,7.2,P,Pass
+P2,Digital immersive intervention,83,P,80,P,84,P,1,P,8.8,P,Pass
+P3,Community co-creation intervention,89,P,88,P,92,P,1,P,9.1,P,Pass
+P4,Mixed cultural-creative intervention,74,P,68,P,76,P,1,P,9.8,P,Pass
