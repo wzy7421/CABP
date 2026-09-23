@@ -1,0 +1,5 @@
+alternative,HC_mean,AQ_mean,SC_mean,SF_mean,EE1_cost,EE2_EE3_mean,source_status
+P1,91.7,67.7,66,60.3,6.5,78,derived_from_current_synthetic_fixture
+P2,86.7,88,79.7,78.3,8.6,73,derived_from_current_synthetic_fixture
+P3,90,89,93,86,7.8,85,derived_from_current_synthetic_fixture
+P4,74.3,77.3,71.7,93,10.5,82,derived_from_current_synthetic_fixture
