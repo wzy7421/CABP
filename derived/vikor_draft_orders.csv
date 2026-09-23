@@ -1,0 +1,5 @@
+weight_model,v,order,draft_status,note
+BWM primary,0.5,P3 > P2 > P1 > P4,DRAFT_REPORTED,Final Q values must be regenerated from final analysis files
+BWMxCRITIC lambda=.5,0.5,P3 > P2 > P1 > P4,DRAFT_REPORTED,Reference-data dependent
+Entropy-ref,0.5,P3 > P2 > P4 > P1,DRAFT_REPORTED,Reference-data dependent
+Equal,0.5,P3 > P2 > P4 > P1,DRAFT_REPORTED,Final Q values must be regenerated
