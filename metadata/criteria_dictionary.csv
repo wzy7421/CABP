@@ -1,0 +1,16 @@
+code,dimension,criterion,direction,scale_unit,evidence_source_role
+HC1,Heritage compatibility,Authenticity retention,Benefit,0-100 anchored score,Fabric/space audit + conservation rubric
+HC2,Heritage compatibility,Reversibility/minimal intervention,Benefit,0-100 anchored score,Detail audit + conservation rubric
+HC3,Heritage compatibility,Industrial-memory legibility,Benefit,0-100 anchored score,Interpretation/process-legibility audit
+AQ1,Artistic quality,Site specificity,Benefit,0-100 anchored score,Art/curatorial expert rubric
+AQ2,Artistic quality,Narrative coherence,Benefit,0-100 anchored score,Art/heritage interpretation rubric
+AQ3,Artistic quality,Interaction/immersion quality,Benefit,0-100 anchored score,Common-scenario expert/user evidence
+SC1,Socio-cultural activation,Public engagement/co-creation,Benefit,0-100 anchored score,Participation-process audit
+SC2,Socio-cultural activation,Place identity/attachment,Benefit,0-100 anchored score,Validated participant scale
+SC3,Socio-cultural activation,Inclusiveness/education,Benefit,0-100 anchored score,Access audit + learning evidence
+SF1,Spatial-functional activation,Functional diversity,Benefit,0-100 anchored score,Programme/space audit
+SF2,Spatial-functional activation,Accessibility/wayfinding,Benefit,0-100 anchored score,Universal-access and circulation audit
+SF3,Spatial-functional activation,Temporal vitality/adaptability,Benefit,0-100 anchored score,Operating schedule + adaptability audit
+EE1,Economic-environmental feasibility,Whole-life cost,Cost,Relative cost index,Consistent cost plan
+EE2,Economic-environmental feasibility,Operational viability,Benefit,0-100 anchored score,Governance/operation audit
+EE3,Economic-environmental feasibility,Material/resource reuse,Benefit,0-100 anchored score,Quantity/LCA evidence
