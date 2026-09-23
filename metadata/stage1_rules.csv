@@ -1,0 +1,6 @@
+code,criterion,direction,threshold,unit,status_logic,evidence_role,authority_status
+G1,Character-defining-fabric retention,minimum,70,0-100 anchored score,Pass if >=70; Fail if confirmed <70; Indeterminate if evidence insufficient,Conservation gate,Project/site-specific authority must be documented
+G2,Intervention reversibility,minimum,65,0-100 anchored score,Pass if >=65; Fail if confirmed <65; Indeterminate if evidence insufficient,Conservation gate,Project/site-specific authority must be documented
+G3,Industrial-process legibility,minimum,70,0-100 anchored score,Pass if >=70; Fail if confirmed <70; Indeterminate if evidence insufficient,Conservation gate,Project/site-specific authority must be documented
+G4,Structural-safety and egress clearance,mandatory,1,binary,Pass if 1; Fail if 0; Indeterminate if clearance unresolved,Safety/procedural gate,Competent technical authority required
+G5,Enabling-works cost ceiling,maximum,10,million CNY equivalent,Pass if <=10.0; Fail if confirmed >10.0; Indeterminate if estimate unresolved,Project-specific feasibility gate,Project-specific authorized ceiling required
