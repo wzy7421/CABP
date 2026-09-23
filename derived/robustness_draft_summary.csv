@@ -1,0 +1,14 @@
+analysis,setting_or_n,primary_winner,winner_result,full_order_result,reported_value,status
+Geometric BWM-CRITIC lambda sweep,11 settings,P3,P3 retained,not specified,P3 first across all 11 settings,DRAFT_REPORTED_REGENERATE
+VIKOR v sweep,11 settings per weighting configuration,P3,P3 retained,not specified,P3 first across all tested v settings,DRAFT_REPORTED_REGENERATE
+Reference bootstrap,2000 resamples,P3,P3 retained in every run,not specified,100% winner retention,DRAFT_REPORTED_REGENERATE
+Leave-one-reference-project-out,36 recalculations,P3,P3 retained,not specified,36/36 winner retention,DRAFT_REPORTED_REGENERATE
+BWM one-at-a-time weight perturbation,30 perturbations (+/-20%),P3,P3 retained,complete TOPSIS/VIKOR orders retained,30/30,DRAFT_REPORTED_REGENERATE
+External-anchor TOPSIS,fixed external anchors,P3,P3 retained,P3 > P2 > P4 > P1,P3=0.8692; P2=0.8045; P4=0.7425; P1=0.7398,DRAFT_REPORTED_REGENERATE
+Candidate removal - TOPSIS,remove one alternative,P3 when present,no relative-order reversal among surviving options,stable among survivors,No reversal,DRAFT_REPORTED_REGENERATE
+Candidate removal - VIKOR,remove one alternative,P3 when present,lower-order change after P4 removal,P3 > P1 > P2 after P4 removal,P3 remains first,DRAFT_REPORTED_REGENERATE
+Score uncertainty - TOPSIS,5000 perturbations,P3,P3 first in every run,3.34% complete-order change,winner change 0%,DRAFT_REPORTED_REGENERATE
+Score uncertainty - VIKOR,5000 perturbations,P3,P3 97.24%; P2 2.02%; P1 0.74%,31.04% complete-order change,winner-change rate 2.76%,DRAFT_REPORTED_REGENERATE
+TOPSIS-VIKOR rank correlation,3 non-identical comparisons,NA,NA,rho=0.80; tau=0.667,descriptive,DRAFT_REPORTED_REGENERATE
+TOPSIS-VIKOR equal-weight correlation,equal weights,NA,NA,rho=1.00; tau=1.00,identical order,DRAFT_REPORTED_REGENERATE
+VIKOR acceptable advantage - primary,v=.5,P3,stability condition reported satisfied,NA,gap=0.5306; threshold=0.3333,DRAFT_REPORTED_REGENERATE
