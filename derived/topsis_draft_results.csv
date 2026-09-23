@@ -1,0 +1,5 @@
+weight_model,P1,P2,P3,P4,order,reproducible_from_current_fixture,status_note
+BWM primary,0.366,0.5984,0.8224,0.4849,P3 > P2 > P4 > P1,YES,Generated from current focal synthetic matrix and BWM vector
+BWMxCRITIC lambda=.5,0.3665,0.571,0.8038,0.5049,P3 > P2 > P4 > P1,NO,Draft-reported target; regenerate from final reference-project data
+Entropy-ref,0.236,0.5093,0.8215,0.5597,P3 > P4 > P2 > P1,NO,Draft-reported target; regenerate from final reference-project data
+Equal,0.3503,0.5729,0.8047,0.5196,P3 > P2 > P4 > P1,YES,Generated from current focal synthetic matrix
